@@ -99,7 +99,7 @@ section.education, section.skills, section.experience, section.services{
     position: relative;
     height: 100vh;
     width: 100%;
-    background-image: url(/img/background.png);
+    background-image: url(https://portfolio.kalharacodes.xyz/img/background.png);
     background-size: cover;
     background-position: center;
     display: flex;
