@@ -100,7 +100,7 @@ section.education, section.skills, section.experience, section.services{
     position: relative;
     height: 100vh;
     width: 100%;
-    background-image: url(/images/background.png); 
+    background-image: url(../images/background.png);
     background-size: cover;
     background-position: center;
     display: flex;
@@ -397,6 +397,15 @@ margin-bottom: 25px;
     height: 100%;
 }
 
+a img{
+    width: 40px;
+}
+
+a img:hover{
+    width: 36px;
+    transform: scale(0.9);
+}
+  
 
 .education-content {
     margin-top: 60px;
